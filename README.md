@@ -14,6 +14,7 @@
 
 
    <h2>LISTA</h2> <!--coisas aleatórias-->
+                 <p>
                     <ul>
                         <li>html</li>
                         <li>css</li>
@@ -21,33 +22,34 @@
                         <li>python</li>
                         <li>javascript</li>
                     </ull>
+                 </p>
 
 
-<h3>testando funcionalidades: forms, botões, types e etc</h3><br>
+   <h3>testando funcionalidades: forms, botões, types e etc</h3><br>
         <p>
         <form action="https://formspree.io/f/mdobqewv" method="post">
              <label>qual seu nome?</label><br>
                   <input name type="nome" placeholder="digite aqui"><br>
-                  </p>
+         </p>
                       
                       
-              <p>
-                 <label>gostaria de me deixar algum aprendizado?</label><br>
-                        <textarea type="text" placeholder="digite aqui" cols="50"></textarea><br>
-                        </p>
+         <p>
+              <label>gostaria de me deixar algum aprendizado?</label><br>
+             <textarea type="text" placeholder="digite aqui" cols="50"></textarea><br>
+        </p>
 
 
-                      <p>
-                   <label>selecione entre as opções</label><br>
-                  <select>
-                        <option>php</option>
-                        <option>java</option>
-                        <option>c</option>
-                        <opthion>python</opthion>
-                        <option>ruby/ruby on rails</option>
-                  </select>
-                        </p>
-                        <button type="submite">enviar</button>
+         <p>
+           <label>selecione entre as opções</label><br>
+               <select>
+                   <option>php</option>
+                   <option>java</option>
+                   <option>c</option>
+                   <opthion>python</opthion>
+                   <option>ruby/ruby on rails</option>
+               </select><br>
+          </p>
+             <button type="submite">enviar</button>
 
          </form>
                 
