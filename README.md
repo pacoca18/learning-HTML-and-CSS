@@ -29,7 +29,7 @@
         <p>
         <form action="https://formspree.io/f/mdobqewv" method="post">
              <label>qual seu nome?</label><br>
-                  <input name type="nome" placeholder="digite aqui"><br>
+                  <input name="nome" type="name" placeholder="digite aqui"><br>
          </p>
                       
                       
